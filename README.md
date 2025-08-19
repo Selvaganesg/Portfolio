@@ -309,7 +309,7 @@ ul{
 
 ```
 ## OUTPUT
-![alt text](image.png)
+![alt text](<Screenshot 2025-08-13 092521.png>)
 
 ## RESULT
 The program for creating Portfolio using HTML and CSS is executed successfully.
